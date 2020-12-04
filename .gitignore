@@ -32,3 +32,4 @@ target
 .vscode
 /.classpath
 /java-oop-coding-exercises.iml
+/bin/
