@@ -1,6 +1,6 @@
 package com.techreturners.cats;
 
-public abstract class WildCat implements Cat {
+public abstract class CommonCat implements Cat {
 
 	private boolean sleepFlag = false;
 	private final String settingStr = "wild";

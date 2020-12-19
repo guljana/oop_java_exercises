@@ -1,6 +1,6 @@
 package com.techreturners.cats;
 
-public class LionCat extends WildCat {
+public class LionCat extends CommonCat {
 
 	private String eatSound = "Roar!!!!";
 	private int avgHieght = 1100;

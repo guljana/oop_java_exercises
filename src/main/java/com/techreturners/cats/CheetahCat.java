@@ -1,6 +1,6 @@
 package com.techreturners.cats;
 
-public class CheetahCat extends WildCat {
+public class CheetahCat extends CommonCat {
 
 	private String eatSound = "Zzzzzzz";
 	private int avgHieght = 900;
